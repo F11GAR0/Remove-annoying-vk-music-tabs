@@ -7,5 +7,5 @@
  then just reload vk.com page and enjoy!
 
 # Result
-![image alt](https://github.com/F11GAR0/Remove-annoying-vk-music-tabs/tree/main/data/result.PNG)
+![image alt](https://github.com/F11GAR0/Remove-annoying-vk-music-tabs/blob/main/data/result.PNG)
  
